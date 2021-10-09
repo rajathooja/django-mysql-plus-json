@@ -1,0 +1,44 @@
+[
+    {
+        "col_id": 1,
+        "col_str": "Apple",
+        "col_num": 1.25,
+        "col_date": "2021-10-01"
+    },
+    {
+        "col_id": 2,
+        "col_str": "Banana",
+        "col_num": 0.25,
+        "col_date": "2021-10-02"
+    },
+    {
+        "col_id": 3,
+        "col_str": "Pear",
+        "col_num": 1.0,
+        "col_date": "2021-10-01"
+    },
+    {
+        "col_id": 4,
+        "col_str": "Orange",
+        "col_num": 0.75,
+        "col_date": "2021-10-04"
+    },
+    {
+        "col_id": 5,
+        "col_str": "Mango",
+        "col_num": 0.99,
+        "col_date": "2021-10-08"
+    },
+    {
+        "col_id": 6,
+        "col_str": "Cheese",
+        "col_num": 1.99,
+        "col_date": "2021-10-09"
+    },
+    {
+        "col_id": 7,
+        "col_str": "Lulo",
+        "col_num": 2.3,
+        "col_date": "2021-10-08"
+    }
+]
